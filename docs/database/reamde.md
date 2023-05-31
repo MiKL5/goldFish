@@ -1,7 +1,7 @@
 # **Base de données**
 
 ## [Dictionnaire de données](dataDictionnary.pdf "voir le dictionnaire de données en pdf")
-[Voir le ictionnaire de données au format Excel](dataDictionnary.xlsx "voir le dictionnaire de données au format Excel")
+[Voir le dictionnaire de données au format Excel](dataDictionnary.xlsx "voir le dictionnaire de données au format Excel")
 
 ## **Modèle conceptuel de données**
 ![Modèle conceptuel de données](MCD.png)
